@@ -1,0 +1,5122 @@
+[
+    {
+        "layer": "/input-8",
+        "channel": 0,
+        "score": 6.994849144348336e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 1,
+        "score": 4.253268293119561e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 2,
+        "score": 2.308395030681254e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 3,
+        "score": 4.8290788035032506e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 4,
+        "score": 6.862352819325679e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 5,
+        "score": 3.902761225305085e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 6,
+        "score": 1.5242714823671122e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 7,
+        "score": 1.1721144055343302e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 8,
+        "score": 4.1778302280366664e-13
+    },
+    {
+        "layer": "/input-8",
+        "channel": 9,
+        "score": 4.1050177146395583e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 10,
+        "score": 5.6367788041356e-12
+    },
+    {
+        "layer": "/input-8",
+        "channel": 11,
+        "score": 1.357925771827695e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 12,
+        "score": 3.067330764383591e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 13,
+        "score": 1.364449386809241e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 14,
+        "score": 2.7671762450887094e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 15,
+        "score": -0.00018257039482705295
+    },
+    {
+        "layer": "/input-8",
+        "channel": 16,
+        "score": 5.719289930539162e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 17,
+        "score": -0.00015046674525365233
+    },
+    {
+        "layer": "/input-8",
+        "channel": 18,
+        "score": 1.875907997828108e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 19,
+        "score": 1.0765375257903997e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 20,
+        "score": -0.0002705624501686543
+    },
+    {
+        "layer": "/input-8",
+        "channel": 21,
+        "score": 4.949887166816325e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 22,
+        "score": 1.9135644180323652e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 23,
+        "score": -8.978842743090354e-06
+    },
+    {
+        "layer": "/input-8",
+        "channel": 24,
+        "score": 6.906389682370673e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 25,
+        "score": 7.797527623587541e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 26,
+        "score": 2.36146297538653e-05
+    },
+    {
+        "layer": "/input-8",
+        "channel": 27,
+        "score": 4.233548511756169e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 28,
+        "score": 2.9653193678313983e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 29,
+        "score": 1.1282362599729368e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 30,
+        "score": 2.8770937021693754e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 31,
+        "score": 2.6993898227800628e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 32,
+        "score": 5.6259767677868666e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 33,
+        "score": 4.4410509048020685e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 34,
+        "score": 5.819434933940215e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 35,
+        "score": 1.1306901248619994e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 36,
+        "score": 2.0874378614532674e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 37,
+        "score": 3.893685818212589e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 38,
+        "score": 1.2552034411861257e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 39,
+        "score": 4.812720100916268e-12
+    },
+    {
+        "layer": "/input-8",
+        "channel": 40,
+        "score": 4.060963371133042e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 41,
+        "score": 1.7275863228860544e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 42,
+        "score": 5.902796829104773e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 43,
+        "score": 3.776373658226362e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 44,
+        "score": 1.1199143301610093e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 45,
+        "score": 5.6735921516448684e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 46,
+        "score": 7.293577073141932e-05
+    },
+    {
+        "layer": "/input-8",
+        "channel": 47,
+        "score": 4.4413989847003066e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 48,
+        "score": 3.199552081611934e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 49,
+        "score": 6.34228563764494e-12
+    },
+    {
+        "layer": "/input-8",
+        "channel": 50,
+        "score": 1.3317821512259798e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 51,
+        "score": 1.8894150133341725e-10
+    },
+    {
+        "layer": "/input-8",
+        "channel": 52,
+        "score": 1.6714724893063249e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 53,
+        "score": 4.625754987386266e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 54,
+        "score": -9.601140327220037e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 55,
+        "score": 1.1977651759309538e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 56,
+        "score": 2.9741153539930565e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 57,
+        "score": 2.776319618646994e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 58,
+        "score": 2.7173174999006733e-07
+    },
+    {
+        "layer": "/input-8",
+        "channel": 59,
+        "score": 6.622850878823527e-11
+    },
+    {
+        "layer": "/input-8",
+        "channel": 60,
+        "score": 8.300347076328762e-09
+    },
+    {
+        "layer": "/input-8",
+        "channel": 61,
+        "score": 3.4593131914562036e-08
+    },
+    {
+        "layer": "/input-8",
+        "channel": 62,
+        "score": -8.337886356457602e-06
+    },
+    {
+        "layer": "/input-8",
+        "channel": 63,
+        "score": 1.4110889878793387e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 0,
+        "score": 3.2585220632874723e-10
+    },
+    {
+        "layer": "/input-20",
+        "channel": 1,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 2,
+        "score": -3.840318095171824e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 3,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 4,
+        "score": 6.044394012860721e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 5,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 6,
+        "score": 1.1112653765937841e-12
+    },
+    {
+        "layer": "/input-20",
+        "channel": 7,
+        "score": -6.678827048745006e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 8,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 9,
+        "score": -9.221622077060232e-11
+    },
+    {
+        "layer": "/input-20",
+        "channel": 10,
+        "score": -3.246529087230776e-11
+    },
+    {
+        "layer": "/input-20",
+        "channel": 11,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 12,
+        "score": 2.098387574811511e-10
+    },
+    {
+        "layer": "/input-20",
+        "channel": 13,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 14,
+        "score": -5.0646456656977534e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 15,
+        "score": -2.0621242583729327e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 16,
+        "score": -7.257175411723438e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 17,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 18,
+        "score": 1.9275170416221954e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 19,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 20,
+        "score": -6.9333846113295294e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 21,
+        "score": 6.770866178840151e-08
+    },
+    {
+        "layer": "/input-20",
+        "channel": 22,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 23,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 24,
+        "score": -1.6227772903221194e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 25,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 26,
+        "score": 4.676196235786634e-11
+    },
+    {
+        "layer": "/input-20",
+        "channel": 27,
+        "score": -3.4439101570526987e-10
+    },
+    {
+        "layer": "/input-20",
+        "channel": 28,
+        "score": 3.275122026025201e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 29,
+        "score": -3.3615419852139894e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 30,
+        "score": -1.648062425374519e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 31,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 32,
+        "score": 1.6342396236268542e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 33,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 34,
+        "score": -1.8323242329643108e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 35,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 36,
+        "score": -6.570333789568394e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 37,
+        "score": -8.948982213041745e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 38,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 39,
+        "score": -3.91133426091983e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 40,
+        "score": 4.156131341859215e-11
+    },
+    {
+        "layer": "/input-20",
+        "channel": 41,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 42,
+        "score": 4.601209639076842e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 43,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 44,
+        "score": -3.822642975137569e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 45,
+        "score": 0.0005893876077607274
+    },
+    {
+        "layer": "/input-20",
+        "channel": 46,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 47,
+        "score": -2.4619168925710255e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 48,
+        "score": -2.637640318425838e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 49,
+        "score": -1.496973482062458e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 50,
+        "score": 1.9306027354559774e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 51,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 52,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 53,
+        "score": 1.3000101796990207e-15
+    },
+    {
+        "layer": "/input-20",
+        "channel": 54,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 55,
+        "score": -1.5280272880335843e-10
+    },
+    {
+        "layer": "/input-20",
+        "channel": 56,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 57,
+        "score": 7.490424991374312e-08
+    },
+    {
+        "layer": "/input-20",
+        "channel": 58,
+        "score": -3.7771897041238844e-05
+    },
+    {
+        "layer": "/input-20",
+        "channel": 59,
+        "score": 5.223463631409686e-06
+    },
+    {
+        "layer": "/input-20",
+        "channel": 60,
+        "score": -1.6380920442315983e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 61,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-20",
+        "channel": 62,
+        "score": 2.415655160348251e-07
+    },
+    {
+        "layer": "/input-20",
+        "channel": 63,
+        "score": -3.932537310902262e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 0,
+        "score": -1.1586029131649411e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 1,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 2,
+        "score": -1.0445241059642285e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 3,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 4,
+        "score": 4.190288746031001e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 5,
+        "score": -4.433566937223077e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 6,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 7,
+        "score": -1.975242412299849e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 8,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 9,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 10,
+        "score": -0.0003079785092268139
+    },
+    {
+        "layer": "/input-32",
+        "channel": 11,
+        "score": 0.0003549656830728054
+    },
+    {
+        "layer": "/input-32",
+        "channel": 12,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 13,
+        "score": 9.992826878468808e-13
+    },
+    {
+        "layer": "/input-32",
+        "channel": 14,
+        "score": 6.705852138111368e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 15,
+        "score": 0.00011640937736956403
+    },
+    {
+        "layer": "/input-32",
+        "channel": 16,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 17,
+        "score": -0.00015913185779936612
+    },
+    {
+        "layer": "/input-32",
+        "channel": 18,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 19,
+        "score": 1.259337932424387e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 20,
+        "score": -2.0625462639145553e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 21,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 22,
+        "score": -0.00012307948782108724
+    },
+    {
+        "layer": "/input-32",
+        "channel": 23,
+        "score": -0.0016690802294760942
+    },
+    {
+        "layer": "/input-32",
+        "channel": 24,
+        "score": -7.268883200595155e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 25,
+        "score": -4.53381699117017e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 26,
+        "score": -4.039861596538685e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 27,
+        "score": -0.001013654051348567
+    },
+    {
+        "layer": "/input-32",
+        "channel": 28,
+        "score": -1.8488680808559366e-08
+    },
+    {
+        "layer": "/input-32",
+        "channel": 29,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 30,
+        "score": 7.425262626981066e-10
+    },
+    {
+        "layer": "/input-32",
+        "channel": 31,
+        "score": -6.59491415717639e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 32,
+        "score": -0.0040480634197592735
+    },
+    {
+        "layer": "/input-32",
+        "channel": 33,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 34,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 35,
+        "score": 2.3092435696980829e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 36,
+        "score": -0.0010376154677942395
+    },
+    {
+        "layer": "/input-32",
+        "channel": 37,
+        "score": 3.596819078666158e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 38,
+        "score": -5.3098359785508364e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 39,
+        "score": -7.140214438550174e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 40,
+        "score": -0.0010626261355355382
+    },
+    {
+        "layer": "/input-32",
+        "channel": 41,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 42,
+        "score": -2.591581505839713e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 43,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 44,
+        "score": -9.75309944806213e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 45,
+        "score": -2.740911986620631e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 46,
+        "score": -0.0033244891092181206
+    },
+    {
+        "layer": "/input-32",
+        "channel": 47,
+        "score": -1.9876262740581296e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 48,
+        "score": 6.006388957757736e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 49,
+        "score": 5.1555158279370517e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 50,
+        "score": -1.209851870953571e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 51,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 52,
+        "score": -4.5263041670295934e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 53,
+        "score": -1.9861226974171586e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 54,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 55,
+        "score": -0.00013494171435013413
+    },
+    {
+        "layer": "/input-32",
+        "channel": 56,
+        "score": 5.827704541161438e-08
+    },
+    {
+        "layer": "/input-32",
+        "channel": 57,
+        "score": 1.776365752448328e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 58,
+        "score": 1.98635416381876e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 59,
+        "score": 9.06093033936628e-10
+    },
+    {
+        "layer": "/input-32",
+        "channel": 60,
+        "score": 8.123269834570124e-10
+    },
+    {
+        "layer": "/input-32",
+        "channel": 61,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 62,
+        "score": 8.603306923760101e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 63,
+        "score": -0.004638493526726961
+    },
+    {
+        "layer": "/input-32",
+        "channel": 64,
+        "score": 3.287393701612018e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 65,
+        "score": 5.0946473493240774e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 66,
+        "score": -2.13721959880786e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 67,
+        "score": 1.59288574650418e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 68,
+        "score": 7.501706568291411e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 69,
+        "score": 0.0013504634844139218
+    },
+    {
+        "layer": "/input-32",
+        "channel": 70,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 71,
+        "score": -9.967713413061574e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 72,
+        "score": -6.238649802980945e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 73,
+        "score": 1.488867201260291e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 74,
+        "score": 1.9179419723514e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 75,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 76,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 77,
+        "score": -0.0012578063178807497
+    },
+    {
+        "layer": "/input-32",
+        "channel": 78,
+        "score": 5.0125629059039056e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 79,
+        "score": 6.647233458112467e-11
+    },
+    {
+        "layer": "/input-32",
+        "channel": 80,
+        "score": -0.0006300639361143112
+    },
+    {
+        "layer": "/input-32",
+        "channel": 81,
+        "score": -0.0009170123375952244
+    },
+    {
+        "layer": "/input-32",
+        "channel": 82,
+        "score": -5.835304546053521e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 83,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 84,
+        "score": 0.000834153383038938
+    },
+    {
+        "layer": "/input-32",
+        "channel": 85,
+        "score": -3.639869828475639e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 86,
+        "score": -0.00013617707008961588
+    },
+    {
+        "layer": "/input-32",
+        "channel": 87,
+        "score": 2.9838773230039806e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 88,
+        "score": 1.041504401655402e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 89,
+        "score": -0.001279034186154604
+    },
+    {
+        "layer": "/input-32",
+        "channel": 90,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 91,
+        "score": -1.527891436126083e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 92,
+        "score": -0.00014594233653042465
+    },
+    {
+        "layer": "/input-32",
+        "channel": 93,
+        "score": -0.0011280219769105315
+    },
+    {
+        "layer": "/input-32",
+        "channel": 94,
+        "score": -7.432648271787912e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 95,
+        "score": -5.3919498895993456e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 96,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 97,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 98,
+        "score": -0.00011130859638797119
+    },
+    {
+        "layer": "/input-32",
+        "channel": 99,
+        "score": 5.888485975447111e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 100,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 101,
+        "score": -2.915362529165577e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 102,
+        "score": -2.5406394343008287e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 103,
+        "score": -0.000978152616880834
+    },
+    {
+        "layer": "/input-32",
+        "channel": 104,
+        "score": -3.0058315587666584e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 105,
+        "score": -8.363771826225275e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 106,
+        "score": 1.0354003071588735e-10
+    },
+    {
+        "layer": "/input-32",
+        "channel": 107,
+        "score": -1.4778538570681121e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 108,
+        "score": 3.3923527098522754e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 109,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 110,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 111,
+        "score": -4.237713710608659e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 112,
+        "score": -8.159975550370291e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 113,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 114,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 115,
+        "score": 8.116287062875926e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 116,
+        "score": 1.0325950370315695e-06
+    },
+    {
+        "layer": "/input-32",
+        "channel": 117,
+        "score": -8.108755719149485e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 118,
+        "score": -6.690987675028737e-07
+    },
+    {
+        "layer": "/input-32",
+        "channel": 119,
+        "score": -0.00011060953693231568
+    },
+    {
+        "layer": "/input-32",
+        "channel": 120,
+        "score": -5.638129368890077e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 121,
+        "score": 0.00018545618513599038
+    },
+    {
+        "layer": "/input-32",
+        "channel": 122,
+        "score": 2.537847487715794e-09
+    },
+    {
+        "layer": "/input-32",
+        "channel": 123,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 124,
+        "score": -2.6923689802060835e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 125,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-32",
+        "channel": 126,
+        "score": -1.7930546164279804e-05
+    },
+    {
+        "layer": "/input-32",
+        "channel": 127,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 0,
+        "score": -3.454462330410024e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 1,
+        "score": -5.769159542978741e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 2,
+        "score": -2.8567542358359788e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 3,
+        "score": -1.8416718376101926e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 4,
+        "score": -0.0011785301612690091
+    },
+    {
+        "layer": "/input-44",
+        "channel": 5,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 6,
+        "score": -4.913099837722257e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 7,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 8,
+        "score": -0.0009485027985647321
+    },
+    {
+        "layer": "/input-44",
+        "channel": 9,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 10,
+        "score": -1.2533811968751252e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 11,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 12,
+        "score": -1.1296360469259525e-07
+    },
+    {
+        "layer": "/input-44",
+        "channel": 13,
+        "score": -0.00029227984487079084
+    },
+    {
+        "layer": "/input-44",
+        "channel": 14,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 15,
+        "score": 1.9706576648292895e-11
+    },
+    {
+        "layer": "/input-44",
+        "channel": 16,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 17,
+        "score": -0.0008743444341234863
+    },
+    {
+        "layer": "/input-44",
+        "channel": 18,
+        "score": 0.0003646861296147108
+    },
+    {
+        "layer": "/input-44",
+        "channel": 19,
+        "score": -1.8694167920330074e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 20,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 21,
+        "score": 0.00031000905437394977
+    },
+    {
+        "layer": "/input-44",
+        "channel": 22,
+        "score": -1.7235379345947877e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 23,
+        "score": -0.0005519281257875264
+    },
+    {
+        "layer": "/input-44",
+        "channel": 24,
+        "score": 8.803309015092964e-07
+    },
+    {
+        "layer": "/input-44",
+        "channel": 25,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 26,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 27,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 28,
+        "score": -7.888488795515514e-08
+    },
+    {
+        "layer": "/input-44",
+        "channel": 29,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 30,
+        "score": 0.0012062328169122338
+    },
+    {
+        "layer": "/input-44",
+        "channel": 31,
+        "score": -0.0011450817110016942
+    },
+    {
+        "layer": "/input-44",
+        "channel": 32,
+        "score": 1.2459052413760219e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 33,
+        "score": 1.761144449119456e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 34,
+        "score": -1.8974656995851547e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 35,
+        "score": -0.0001379308960167691
+    },
+    {
+        "layer": "/input-44",
+        "channel": 36,
+        "score": 1.810388857848011e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 37,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 38,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 39,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 40,
+        "score": 2.666101295289991e-07
+    },
+    {
+        "layer": "/input-44",
+        "channel": 41,
+        "score": 2.2593852918362245e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 42,
+        "score": -1.5112052096810658e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 43,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 44,
+        "score": -0.00026784336660057306
+    },
+    {
+        "layer": "/input-44",
+        "channel": 45,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 46,
+        "score": -3.7580607568088453e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 47,
+        "score": 2.524023329897318e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 48,
+        "score": 0.00019746470206882805
+    },
+    {
+        "layer": "/input-44",
+        "channel": 49,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 50,
+        "score": -1.2543563570943661e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 51,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 52,
+        "score": -0.0006334164063446224
+    },
+    {
+        "layer": "/input-44",
+        "channel": 53,
+        "score": -0.0006502849282696843
+    },
+    {
+        "layer": "/input-44",
+        "channel": 54,
+        "score": -0.0010591283207759261
+    },
+    {
+        "layer": "/input-44",
+        "channel": 55,
+        "score": -5.9614940255414695e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 56,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 57,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 58,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 59,
+        "score": 2.3655948098166846e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 60,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 61,
+        "score": -7.880853445385583e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 62,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 63,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 64,
+        "score": 3.732210416274029e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 65,
+        "score": 6.193801254994469e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 66,
+        "score": 0.0005640454473905265
+    },
+    {
+        "layer": "/input-44",
+        "channel": 67,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 68,
+        "score": -2.3391269223793643e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 69,
+        "score": -9.698692338133696e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 70,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 71,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 72,
+        "score": 7.377255315077491e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 73,
+        "score": 1.5081875062605832e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 74,
+        "score": 1.0947303053399082e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 75,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 76,
+        "score": 0.0006177802570164204
+    },
+    {
+        "layer": "/input-44",
+        "channel": 77,
+        "score": 0.000299004401313141
+    },
+    {
+        "layer": "/input-44",
+        "channel": 78,
+        "score": 0.0003578479227144271
+    },
+    {
+        "layer": "/input-44",
+        "channel": 79,
+        "score": -2.157740709662903e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 80,
+        "score": 0.0012450750218704343
+    },
+    {
+        "layer": "/input-44",
+        "channel": 81,
+        "score": 0.00024491522344760597
+    },
+    {
+        "layer": "/input-44",
+        "channel": 82,
+        "score": -4.593819539877586e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 83,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 84,
+        "score": -3.5402099456405267e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 85,
+        "score": -0.00011718647147063166
+    },
+    {
+        "layer": "/input-44",
+        "channel": 86,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 87,
+        "score": 0.00043995206942781806
+    },
+    {
+        "layer": "/input-44",
+        "channel": 88,
+        "score": -0.0005484519060701132
+    },
+    {
+        "layer": "/input-44",
+        "channel": 89,
+        "score": 3.5061441394645954e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 90,
+        "score": -1.1350412023602985e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 91,
+        "score": -3.31638375428156e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 92,
+        "score": 2.367883462284226e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 93,
+        "score": -0.0001475003082305193
+    },
+    {
+        "layer": "/input-44",
+        "channel": 94,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 95,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 96,
+        "score": 4.999731572752353e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 97,
+        "score": 1.796464312064927e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 98,
+        "score": -5.260005309537519e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 99,
+        "score": 0.0001455019519198686
+    },
+    {
+        "layer": "/input-44",
+        "channel": 100,
+        "score": 8.229543709603604e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 101,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 102,
+        "score": 0.000281654269201681
+    },
+    {
+        "layer": "/input-44",
+        "channel": 103,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 104,
+        "score": -3.2933636248344555e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 105,
+        "score": -0.0019002167973667383
+    },
+    {
+        "layer": "/input-44",
+        "channel": 106,
+        "score": 1.630115912121255e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 107,
+        "score": 0.0016597018111497164
+    },
+    {
+        "layer": "/input-44",
+        "channel": 108,
+        "score": 1.8892902517109178e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 109,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 110,
+        "score": 1.982518188015092e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 111,
+        "score": -2.2888872990733944e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 112,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 113,
+        "score": 1.3981832125864457e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 114,
+        "score": 1.7928401803146699e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 115,
+        "score": 1.434909881936619e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 116,
+        "score": -6.401355221896665e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 117,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 118,
+        "score": -7.238259422592819e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 119,
+        "score": 1.5166145203693304e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 120,
+        "score": 0.0
+    },
+    {
+        "layer": "/input-44",
+        "channel": 121,
+        "score": 3.0235250960686244e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 122,
+        "score": 4.709414133685641e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 123,
+        "score": 9.33076262299437e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 124,
+        "score": -3.743809793377295e-05
+    },
+    {
+        "layer": "/input-44",
+        "channel": 125,
+        "score": -4.415512648847653e-06
+    },
+    {
+        "layer": "/input-44",
+        "channel": 126,
+        "score": 0.0002859635278582573
+    },
+    {
+        "layer": "/input-44",
+        "channel": 127,
+        "score": -2.1396460851974552e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 0,
+        "score": -0.000162643933435902
+    },
+    {
+        "layer": "/59",
+        "channel": 1,
+        "score": 1.4602973124056007e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 2,
+        "score": -1.2259402865311131e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 3,
+        "score": 0.0
+    },
+    {
+        "layer": "/59",
+        "channel": 4,
+        "score": 2.2165825157571817e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 5,
+        "score": 3.154613978040288e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 6,
+        "score": 1.5357959455286618e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 7,
+        "score": -7.433352584484965e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 8,
+        "score": -0.00029484499827958643
+    },
+    {
+        "layer": "/59",
+        "channel": 9,
+        "score": -1.976533530978486e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 10,
+        "score": 4.6468218783957127e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 11,
+        "score": 2.903327640524367e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 12,
+        "score": -2.8878537250420777e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 13,
+        "score": 2.3749525723815168e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 14,
+        "score": 0.0
+    },
+    {
+        "layer": "/59",
+        "channel": 15,
+        "score": 1.4039896996109746e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 16,
+        "score": -8.355389581993222e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 17,
+        "score": 5.703993224415171e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 18,
+        "score": -7.42680931580253e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 19,
+        "score": 0.0008704201900400221
+    },
+    {
+        "layer": "/59",
+        "channel": 20,
+        "score": 0.00016942118236329406
+    },
+    {
+        "layer": "/59",
+        "channel": 21,
+        "score": 1.8435738411426428e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 22,
+        "score": -0.0001246197643922642
+    },
+    {
+        "layer": "/59",
+        "channel": 23,
+        "score": -0.00040298892417922616
+    },
+    {
+        "layer": "/59",
+        "channel": 24,
+        "score": -9.647253318689764e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 25,
+        "score": -6.307505827862769e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 26,
+        "score": 9.68413246482669e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 27,
+        "score": 1.740166226227302e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 28,
+        "score": 0.0
+    },
+    {
+        "layer": "/59",
+        "channel": 29,
+        "score": 3.422811687414651e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 30,
+        "score": -4.8525616875849664e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 31,
+        "score": -0.0001223565050167963
+    },
+    {
+        "layer": "/59",
+        "channel": 32,
+        "score": -0.0009839222766458988
+    },
+    {
+        "layer": "/59",
+        "channel": 33,
+        "score": 2.7730088731914293e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 34,
+        "score": -0.00010787998326122761
+    },
+    {
+        "layer": "/59",
+        "channel": 35,
+        "score": -0.000552252575289458
+    },
+    {
+        "layer": "/59",
+        "channel": 36,
+        "score": 9.448922924093495e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 37,
+        "score": 4.4317147285255487e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 38,
+        "score": -0.0003369263431522995
+    },
+    {
+        "layer": "/59",
+        "channel": 39,
+        "score": 1.3841118970958632e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 40,
+        "score": -0.0004662544815801084
+    },
+    {
+        "layer": "/59",
+        "channel": 41,
+        "score": 9.139970416072174e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 42,
+        "score": 1.507749061602226e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 43,
+        "score": -1.2221265023981687e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 44,
+        "score": 1.0197281881119125e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 45,
+        "score": 9.510096674603119e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 46,
+        "score": 2.4098731046251487e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 47,
+        "score": 0.00032961860415525734
+    },
+    {
+        "layer": "/59",
+        "channel": 48,
+        "score": 3.2112200187839335e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 49,
+        "score": 5.955725441708637e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 50,
+        "score": 1.5088940097385262e-09
+    },
+    {
+        "layer": "/59",
+        "channel": 51,
+        "score": 1.7656691397860413e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 52,
+        "score": 3.876924115076008e-09
+    },
+    {
+        "layer": "/59",
+        "channel": 53,
+        "score": 5.4976761020952836e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 54,
+        "score": -0.0010225976584479213
+    },
+    {
+        "layer": "/59",
+        "channel": 55,
+        "score": 2.0520917587418808e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 56,
+        "score": 2.8996098924705116e-11
+    },
+    {
+        "layer": "/59",
+        "channel": 57,
+        "score": -0.0007459570188075304
+    },
+    {
+        "layer": "/59",
+        "channel": 58,
+        "score": 9.7756299055618e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 59,
+        "score": 2.2878871277498547e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 60,
+        "score": -1.9698260075529106e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 61,
+        "score": -9.455057443119586e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 62,
+        "score": 0.0005674196290783584
+    },
+    {
+        "layer": "/59",
+        "channel": 63,
+        "score": 1.8303881006431766e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 64,
+        "score": 2.6558527679299004e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 65,
+        "score": 0.0003084179770667106
+    },
+    {
+        "layer": "/59",
+        "channel": 66,
+        "score": 2.727671244429075e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 67,
+        "score": 5.882409368496155e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 68,
+        "score": 9.580749065207783e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 69,
+        "score": 6.786795711377636e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 70,
+        "score": 1.4090733202465344e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 71,
+        "score": -0.0004219384281896055
+    },
+    {
+        "layer": "/59",
+        "channel": 72,
+        "score": 1.640567347749311e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 73,
+        "score": 1.6487252878505387e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 74,
+        "score": 1.0991203680532635e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 75,
+        "score": 1.6271383174171206e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 76,
+        "score": 2.5085132620006334e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 77,
+        "score": 0.00040719093522056937
+    },
+    {
+        "layer": "/59",
+        "channel": 78,
+        "score": 0.00029189555789344013
+    },
+    {
+        "layer": "/59",
+        "channel": 79,
+        "score": 2.429355618005502e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 80,
+        "score": 1.6661517747706966e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 81,
+        "score": 1.049906927619304e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 82,
+        "score": 1.2157180151461944e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 83,
+        "score": -9.738659719005227e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 84,
+        "score": 1.845089627749985e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 85,
+        "score": 0.00011291617556707934
+    },
+    {
+        "layer": "/59",
+        "channel": 86,
+        "score": 3.1721897357783746e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 87,
+        "score": -2.1074762116768397e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 88,
+        "score": 5.664994029430659e-10
+    },
+    {
+        "layer": "/59",
+        "channel": 89,
+        "score": 6.619051418965682e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 90,
+        "score": -1.4324396943266038e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 91,
+        "score": 0.0012081245658919215
+    },
+    {
+        "layer": "/59",
+        "channel": 92,
+        "score": 8.120719598991855e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 93,
+        "score": 5.8544956118566915e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 94,
+        "score": 1.0362447255829466e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 95,
+        "score": -0.00016160678933374584
+    },
+    {
+        "layer": "/59",
+        "channel": 96,
+        "score": -0.00019968373817391694
+    },
+    {
+        "layer": "/59",
+        "channel": 97,
+        "score": 1.1592796766990432e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 98,
+        "score": -0.00036350355367176235
+    },
+    {
+        "layer": "/59",
+        "channel": 99,
+        "score": 2.503278437870904e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 100,
+        "score": -4.69429473071159e-09
+    },
+    {
+        "layer": "/59",
+        "channel": 101,
+        "score": 1.6970972183116828e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 102,
+        "score": 2.186274286941625e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 103,
+        "score": 1.358144231744518e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 104,
+        "score": -1.598930793988984e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 105,
+        "score": 1.0269902759318938e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 106,
+        "score": -4.770771920448169e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 107,
+        "score": 2.396124182268977e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 108,
+        "score": -0.0004846574738621712
+    },
+    {
+        "layer": "/59",
+        "channel": 109,
+        "score": 0.0001672708458499983
+    },
+    {
+        "layer": "/59",
+        "channel": 110,
+        "score": 1.2877039807790425e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 111,
+        "score": 2.021492036874406e-06
+    },
+    {
+        "layer": "/59",
+        "channel": 112,
+        "score": 0.00011798574269050732
+    },
+    {
+        "layer": "/59",
+        "channel": 113,
+        "score": 9.941472853824962e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 114,
+        "score": -0.00013094305177219212
+    },
+    {
+        "layer": "/59",
+        "channel": 115,
+        "score": 0.0003502627369016409
+    },
+    {
+        "layer": "/59",
+        "channel": 116,
+        "score": 5.977872206130996e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 117,
+        "score": -9.258783393306658e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 118,
+        "score": 6.663517524430063e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 119,
+        "score": -2.55255690717604e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 120,
+        "score": 0.00014967103197705
+    },
+    {
+        "layer": "/59",
+        "channel": 121,
+        "score": 0.000994664034806192
+    },
+    {
+        "layer": "/59",
+        "channel": 122,
+        "score": -4.119839650229551e-05
+    },
+    {
+        "layer": "/59",
+        "channel": 123,
+        "score": 0.0009635915630497038
+    },
+    {
+        "layer": "/59",
+        "channel": 124,
+        "score": 3.082804767018388e-07
+    },
+    {
+        "layer": "/59",
+        "channel": 125,
+        "score": 0.0003833007940556854
+    },
+    {
+        "layer": "/59",
+        "channel": 126,
+        "score": 0.00010707553883548826
+    },
+    {
+        "layer": "/59",
+        "channel": 127,
+        "score": 3.879224550473737e-06
+    },
+    {
+        "layer": "/63",
+        "channel": 0,
+        "score": 0.0020148097537457943
+    },
+    {
+        "layer": "/63",
+        "channel": 1,
+        "score": -0.004209496546536684
+    },
+    {
+        "layer": "/63",
+        "channel": 2,
+        "score": 0.017425820231437683
+    },
+    {
+        "layer": "/63",
+        "channel": 3,
+        "score": 0.004691346548497677
+    },
+    {
+        "layer": "/63",
+        "channel": 4,
+        "score": -0.0015933652175590396
+    },
+    {
+        "layer": "/63",
+        "channel": 5,
+        "score": 0.006884306203573942
+    },
+    {
+        "layer": "/63",
+        "channel": 6,
+        "score": -0.00529398862272501
+    },
+    {
+        "layer": "/63",
+        "channel": 7,
+        "score": 0.019240466877818108
+    },
+    {
+        "layer": "/63",
+        "channel": 8,
+        "score": -0.02353861555457115
+    },
+    {
+        "layer": "/63",
+        "channel": 9,
+        "score": -0.012326592579483986
+    },
+    {
+        "layer": "/63",
+        "channel": 10,
+        "score": 0.0005246463697403669
+    },
+    {
+        "layer": "/63",
+        "channel": 11,
+        "score": -0.00593931321054697
+    },
+    {
+        "layer": "/63",
+        "channel": 12,
+        "score": -0.02325441688299179
+    },
+    {
+        "layer": "/63",
+        "channel": 13,
+        "score": -0.00984232872724533
+    },
+    {
+        "layer": "/63",
+        "channel": 14,
+        "score": -0.049562450498342514
+    },
+    {
+        "layer": "/63",
+        "channel": 15,
+        "score": 3.077732571910019e-06
+    },
+    {
+        "layer": "/63",
+        "channel": 16,
+        "score": 0.0011583801824599504
+    },
+    {
+        "layer": "/63",
+        "channel": 17,
+        "score": 0.013394822366535664
+    },
+    {
+        "layer": "/63",
+        "channel": 18,
+        "score": -0.010134280659258366
+    },
+    {
+        "layer": "/63",
+        "channel": 19,
+        "score": 0.00949079543352127
+    },
+    {
+        "layer": "/63",
+        "channel": 20,
+        "score": -0.005405839532613754
+    },
+    {
+        "layer": "/63",
+        "channel": 21,
+        "score": 0.006035900209099054
+    },
+    {
+        "layer": "/63",
+        "channel": 22,
+        "score": -0.002539620501920581
+    },
+    {
+        "layer": "/63",
+        "channel": 23,
+        "score": -0.010547898709774017
+    },
+    {
+        "layer": "/63",
+        "channel": 24,
+        "score": 0.014114406891167164
+    },
+    {
+        "layer": "/63",
+        "channel": 25,
+        "score": -0.0030997823923826218
+    },
+    {
+        "layer": "/63",
+        "channel": 26,
+        "score": -0.030380351468920708
+    },
+    {
+        "layer": "/63",
+        "channel": 27,
+        "score": 0.01678110659122467
+    },
+    {
+        "layer": "/63",
+        "channel": 28,
+        "score": 0.005602217745035887
+    },
+    {
+        "layer": "/63",
+        "channel": 29,
+        "score": 0.004780502524226904
+    },
+    {
+        "layer": "/63",
+        "channel": 30,
+        "score": -0.0009840402053669095
+    },
+    {
+        "layer": "/63",
+        "channel": 31,
+        "score": -0.019714614376425743
+    },
+    {
+        "layer": "/63",
+        "channel": 32,
+        "score": -4.829960016650148e-05
+    },
+    {
+        "layer": "/63",
+        "channel": 33,
+        "score": 0.01414323877543211
+    },
+    {
+        "layer": "/63",
+        "channel": 34,
+        "score": -0.001010697684250772
+    },
+    {
+        "layer": "/63",
+        "channel": 35,
+        "score": -0.0684698149561882
+    },
+    {
+        "layer": "/63",
+        "channel": 36,
+        "score": -0.006681918632239103
+    },
+    {
+        "layer": "/63",
+        "channel": 37,
+        "score": 0.0040663862600922585
+    },
+    {
+        "layer": "/63",
+        "channel": 38,
+        "score": -0.04663541540503502
+    },
+    {
+        "layer": "/63",
+        "channel": 39,
+        "score": -0.0038217403925955296
+    },
+    {
+        "layer": "/63",
+        "channel": 40,
+        "score": 0.0069108642637729645
+    },
+    {
+        "layer": "/63",
+        "channel": 41,
+        "score": 0.017610672861337662
+    },
+    {
+        "layer": "/63",
+        "channel": 42,
+        "score": -0.01841328665614128
+    },
+    {
+        "layer": "/63",
+        "channel": 43,
+        "score": 0.0002675341092981398
+    },
+    {
+        "layer": "/63",
+        "channel": 44,
+        "score": 0.002348959445953369
+    },
+    {
+        "layer": "/63",
+        "channel": 45,
+        "score": -0.01804293692111969
+    },
+    {
+        "layer": "/63",
+        "channel": 46,
+        "score": -0.019503887742757797
+    },
+    {
+        "layer": "/63",
+        "channel": 47,
+        "score": -0.013878892175853252
+    },
+    {
+        "layer": "/63",
+        "channel": 48,
+        "score": 0.003432186786085367
+    },
+    {
+        "layer": "/63",
+        "channel": 49,
+        "score": 0.003199303522706032
+    },
+    {
+        "layer": "/63",
+        "channel": 50,
+        "score": 0.013502014800906181
+    },
+    {
+        "layer": "/63",
+        "channel": 51,
+        "score": -0.007910119369626045
+    },
+    {
+        "layer": "/63",
+        "channel": 52,
+        "score": 0.000601579318754375
+    },
+    {
+        "layer": "/63",
+        "channel": 53,
+        "score": -0.006858654320240021
+    },
+    {
+        "layer": "/63",
+        "channel": 54,
+        "score": 0.0031473850831389427
+    },
+    {
+        "layer": "/63",
+        "channel": 55,
+        "score": -0.0018659379566088319
+    },
+    {
+        "layer": "/63",
+        "channel": 56,
+        "score": 0.0027849802281707525
+    },
+    {
+        "layer": "/63",
+        "channel": 57,
+        "score": 0.0027875734958797693
+    },
+    {
+        "layer": "/63",
+        "channel": 58,
+        "score": 0.0021589642856270075
+    },
+    {
+        "layer": "/63",
+        "channel": 59,
+        "score": 0.009153595194220543
+    },
+    {
+        "layer": "/63",
+        "channel": 60,
+        "score": -0.01874520629644394
+    },
+    {
+        "layer": "/63",
+        "channel": 61,
+        "score": -0.0006461241864599288
+    },
+    {
+        "layer": "/63",
+        "channel": 62,
+        "score": -0.03903147205710411
+    },
+    {
+        "layer": "/63",
+        "channel": 63,
+        "score": 0.020220542326569557
+    },
+    {
+        "layer": "/63",
+        "channel": 64,
+        "score": -0.0036859321407973766
+    },
+    {
+        "layer": "/63",
+        "channel": 65,
+        "score": 0.010632379911839962
+    },
+    {
+        "layer": "/63",
+        "channel": 66,
+        "score": -0.00933984387665987
+    },
+    {
+        "layer": "/63",
+        "channel": 67,
+        "score": -0.009303504601120949
+    },
+    {
+        "layer": "/63",
+        "channel": 68,
+        "score": -0.0012467294000089169
+    },
+    {
+        "layer": "/63",
+        "channel": 69,
+        "score": -9.357000089948997e-05
+    },
+    {
+        "layer": "/63",
+        "channel": 70,
+        "score": 0.00340414815582335
+    },
+    {
+        "layer": "/63",
+        "channel": 71,
+        "score": -0.022997546941041946
+    },
+    {
+        "layer": "/63",
+        "channel": 72,
+        "score": 0.0097279017791152
+    },
+    {
+        "layer": "/63",
+        "channel": 73,
+        "score": -0.012817062437534332
+    },
+    {
+        "layer": "/63",
+        "channel": 74,
+        "score": -0.0020765054505318403
+    },
+    {
+        "layer": "/63",
+        "channel": 75,
+        "score": -0.01545228622853756
+    },
+    {
+        "layer": "/63",
+        "channel": 76,
+        "score": -0.004797494038939476
+    },
+    {
+        "layer": "/63",
+        "channel": 77,
+        "score": 0.010608486831188202
+    },
+    {
+        "layer": "/63",
+        "channel": 78,
+        "score": 0.009007587097585201
+    },
+    {
+        "layer": "/63",
+        "channel": 79,
+        "score": 0.007587618660181761
+    },
+    {
+        "layer": "/63",
+        "channel": 80,
+        "score": -0.007625097408890724
+    },
+    {
+        "layer": "/63",
+        "channel": 81,
+        "score": 0.0002410675515420735
+    },
+    {
+        "layer": "/63",
+        "channel": 82,
+        "score": -0.00889930035918951
+    },
+    {
+        "layer": "/63",
+        "channel": 83,
+        "score": 0.0022011289838701487
+    },
+    {
+        "layer": "/63",
+        "channel": 84,
+        "score": 0.02328164130449295
+    },
+    {
+        "layer": "/63",
+        "channel": 85,
+        "score": 0.02643459290266037
+    },
+    {
+        "layer": "/63",
+        "channel": 86,
+        "score": -0.0006349724717438221
+    },
+    {
+        "layer": "/63",
+        "channel": 87,
+        "score": 0.0033298467751592398
+    },
+    {
+        "layer": "/63",
+        "channel": 88,
+        "score": 0.004516483750194311
+    },
+    {
+        "layer": "/63",
+        "channel": 89,
+        "score": 0.011858115904033184
+    },
+    {
+        "layer": "/63",
+        "channel": 90,
+        "score": -0.007033670786768198
+    },
+    {
+        "layer": "/63",
+        "channel": 91,
+        "score": 0.006662470288574696
+    },
+    {
+        "layer": "/63",
+        "channel": 92,
+        "score": 0.0
+    },
+    {
+        "layer": "/63",
+        "channel": 93,
+        "score": -0.0036474100779742002
+    },
+    {
+        "layer": "/63",
+        "channel": 94,
+        "score": 0.015264544636011124
+    },
+    {
+        "layer": "/63",
+        "channel": 95,
+        "score": -0.007135370280593634
+    },
+    {
+        "layer": "/63",
+        "channel": 96,
+        "score": 0.005373988300561905
+    },
+    {
+        "layer": "/63",
+        "channel": 97,
+        "score": 0.004869144409894943
+    },
+    {
+        "layer": "/63",
+        "channel": 98,
+        "score": 0.011477237567305565
+    },
+    {
+        "layer": "/63",
+        "channel": 99,
+        "score": 0.006528072524815798
+    },
+    {
+        "layer": "/63",
+        "channel": 100,
+        "score": -0.008291819132864475
+    },
+    {
+        "layer": "/63",
+        "channel": 101,
+        "score": -0.0029002863448113203
+    },
+    {
+        "layer": "/63",
+        "channel": 102,
+        "score": -0.032722268253564835
+    },
+    {
+        "layer": "/63",
+        "channel": 103,
+        "score": 0.016213374212384224
+    },
+    {
+        "layer": "/63",
+        "channel": 104,
+        "score": -0.006034771911799908
+    },
+    {
+        "layer": "/63",
+        "channel": 105,
+        "score": -0.0037814942188560963
+    },
+    {
+        "layer": "/63",
+        "channel": 106,
+        "score": -0.012847467325627804
+    },
+    {
+        "layer": "/63",
+        "channel": 107,
+        "score": 0.003327651647850871
+    },
+    {
+        "layer": "/63",
+        "channel": 108,
+        "score": 0.011886534281075
+    },
+    {
+        "layer": "/63",
+        "channel": 109,
+        "score": -0.02118046209216118
+    },
+    {
+        "layer": "/63",
+        "channel": 110,
+        "score": -0.014738962054252625
+    },
+    {
+        "layer": "/63",
+        "channel": 111,
+        "score": 0.023318838328123093
+    },
+    {
+        "layer": "/63",
+        "channel": 112,
+        "score": 0.008779359050095081
+    },
+    {
+        "layer": "/63",
+        "channel": 113,
+        "score": 0.0022901471238583326
+    },
+    {
+        "layer": "/63",
+        "channel": 114,
+        "score": 0.0025477868039160967
+    },
+    {
+        "layer": "/63",
+        "channel": 115,
+        "score": -0.0025698444806039333
+    },
+    {
+        "layer": "/63",
+        "channel": 116,
+        "score": -8.634445975985727e-07
+    },
+    {
+        "layer": "/63",
+        "channel": 117,
+        "score": -0.0313129648566246
+    },
+    {
+        "layer": "/63",
+        "channel": 118,
+        "score": 0.005456688813865185
+    },
+    {
+        "layer": "/63",
+        "channel": 119,
+        "score": 0.010152546688914299
+    },
+    {
+        "layer": "/63",
+        "channel": 120,
+        "score": 0.009818241000175476
+    },
+    {
+        "layer": "/63",
+        "channel": 121,
+        "score": -0.012366651557385921
+    },
+    {
+        "layer": "/63",
+        "channel": 122,
+        "score": -0.00026491915923543274
+    },
+    {
+        "layer": "/63",
+        "channel": 123,
+        "score": 0.0064283255487680435
+    },
+    {
+        "layer": "/63",
+        "channel": 124,
+        "score": 0.004641349893063307
+    },
+    {
+        "layer": "/63",
+        "channel": 125,
+        "score": 0.0034645749256014824
+    },
+    {
+        "layer": "/63",
+        "channel": 126,
+        "score": -0.009012890048325062
+    },
+    {
+        "layer": "/63",
+        "channel": 127,
+        "score": -0.00839436985552311
+    },
+    {
+        "layer": "/63",
+        "channel": 128,
+        "score": 0.0010822988115251064
+    },
+    {
+        "layer": "/63",
+        "channel": 129,
+        "score": 0.0016752923838794231
+    },
+    {
+        "layer": "/63",
+        "channel": 130,
+        "score": -0.01244848407804966
+    },
+    {
+        "layer": "/63",
+        "channel": 131,
+        "score": 0.0010494956513866782
+    },
+    {
+        "layer": "/63",
+        "channel": 132,
+        "score": 0.008844619616866112
+    },
+    {
+        "layer": "/63",
+        "channel": 133,
+        "score": 3.041163108719047e-05
+    },
+    {
+        "layer": "/63",
+        "channel": 134,
+        "score": -0.005145407747477293
+    },
+    {
+        "layer": "/63",
+        "channel": 135,
+        "score": 0.014396002516150475
+    },
+    {
+        "layer": "/63",
+        "channel": 136,
+        "score": -0.0016812707763165236
+    },
+    {
+        "layer": "/63",
+        "channel": 137,
+        "score": -0.012005595490336418
+    },
+    {
+        "layer": "/63",
+        "channel": 138,
+        "score": 0.006165704224258661
+    },
+    {
+        "layer": "/63",
+        "channel": 139,
+        "score": 0.001799405668862164
+    },
+    {
+        "layer": "/63",
+        "channel": 140,
+        "score": 0.022014353424310684
+    },
+    {
+        "layer": "/63",
+        "channel": 141,
+        "score": 0.0
+    },
+    {
+        "layer": "/63",
+        "channel": 142,
+        "score": 0.002565247006714344
+    },
+    {
+        "layer": "/63",
+        "channel": 143,
+        "score": 0.003701940644532442
+    },
+    {
+        "layer": "/63",
+        "channel": 144,
+        "score": 0.000321556581184268
+    },
+    {
+        "layer": "/63",
+        "channel": 145,
+        "score": 0.00040765429730527103
+    },
+    {
+        "layer": "/63",
+        "channel": 146,
+        "score": 0.0032414488960057497
+    },
+    {
+        "layer": "/63",
+        "channel": 147,
+        "score": 0.013260004110634327
+    },
+    {
+        "layer": "/63",
+        "channel": 148,
+        "score": 0.022305812686681747
+    },
+    {
+        "layer": "/63",
+        "channel": 149,
+        "score": 0.0077009922824800014
+    },
+    {
+        "layer": "/63",
+        "channel": 150,
+        "score": -0.0021258133929222822
+    },
+    {
+        "layer": "/63",
+        "channel": 151,
+        "score": -0.009795072488486767
+    },
+    {
+        "layer": "/63",
+        "channel": 152,
+        "score": -0.01367956679314375
+    },
+    {
+        "layer": "/63",
+        "channel": 153,
+        "score": 0.012038692831993103
+    },
+    {
+        "layer": "/63",
+        "channel": 154,
+        "score": 0.004522752948105335
+    },
+    {
+        "layer": "/63",
+        "channel": 155,
+        "score": 0.002587441820651293
+    },
+    {
+        "layer": "/63",
+        "channel": 156,
+        "score": -0.018701640889048576
+    },
+    {
+        "layer": "/63",
+        "channel": 157,
+        "score": 0.006298830732703209
+    },
+    {
+        "layer": "/63",
+        "channel": 158,
+        "score": 0.006053098011761904
+    },
+    {
+        "layer": "/63",
+        "channel": 159,
+        "score": -0.013503532856702805
+    },
+    {
+        "layer": "/63",
+        "channel": 160,
+        "score": 0.0055102272890508175
+    },
+    {
+        "layer": "/63",
+        "channel": 161,
+        "score": -0.0005842233076691628
+    },
+    {
+        "layer": "/63",
+        "channel": 162,
+        "score": -0.0005268104141578078
+    },
+    {
+        "layer": "/63",
+        "channel": 163,
+        "score": 0.005385621916502714
+    },
+    {
+        "layer": "/63",
+        "channel": 164,
+        "score": 0.008862683549523354
+    },
+    {
+        "layer": "/63",
+        "channel": 165,
+        "score": 0.010219448246061802
+    },
+    {
+        "layer": "/63",
+        "channel": 166,
+        "score": -0.09634353965520859
+    },
+    {
+        "layer": "/63",
+        "channel": 167,
+        "score": -0.0028551968280225992
+    },
+    {
+        "layer": "/63",
+        "channel": 168,
+        "score": -0.0018723730463534594
+    },
+    {
+        "layer": "/63",
+        "channel": 169,
+        "score": -0.005833018105477095
+    },
+    {
+        "layer": "/63",
+        "channel": 170,
+        "score": 0.010567612014710903
+    },
+    {
+        "layer": "/63",
+        "channel": 171,
+        "score": 0.02710539475083351
+    },
+    {
+        "layer": "/63",
+        "channel": 172,
+        "score": -0.01028147991746664
+    },
+    {
+        "layer": "/63",
+        "channel": 173,
+        "score": 0.0001061519214999862
+    },
+    {
+        "layer": "/63",
+        "channel": 174,
+        "score": 0.00201439275406301
+    },
+    {
+        "layer": "/63",
+        "channel": 175,
+        "score": -0.009648701176047325
+    },
+    {
+        "layer": "/63",
+        "channel": 176,
+        "score": -0.03554372116923332
+    },
+    {
+        "layer": "/63",
+        "channel": 177,
+        "score": 0.010496429167687893
+    },
+    {
+        "layer": "/63",
+        "channel": 178,
+        "score": 0.006987415254116058
+    },
+    {
+        "layer": "/63",
+        "channel": 179,
+        "score": 0.004779555834829807
+    },
+    {
+        "layer": "/63",
+        "channel": 180,
+        "score": 0.002635697368532419
+    },
+    {
+        "layer": "/63",
+        "channel": 181,
+        "score": 0.002710533095523715
+    },
+    {
+        "layer": "/63",
+        "channel": 182,
+        "score": -0.006868309807032347
+    },
+    {
+        "layer": "/63",
+        "channel": 183,
+        "score": -0.022141478955745697
+    },
+    {
+        "layer": "/63",
+        "channel": 184,
+        "score": -0.015758201479911804
+    },
+    {
+        "layer": "/63",
+        "channel": 185,
+        "score": 0.0
+    },
+    {
+        "layer": "/63",
+        "channel": 186,
+        "score": -0.03516509756445885
+    },
+    {
+        "layer": "/63",
+        "channel": 187,
+        "score": 0.014417078346014023
+    },
+    {
+        "layer": "/63",
+        "channel": 188,
+        "score": -0.030224664136767387
+    },
+    {
+        "layer": "/63",
+        "channel": 189,
+        "score": 0.005823750514537096
+    },
+    {
+        "layer": "/63",
+        "channel": 190,
+        "score": 0.0055501568131148815
+    },
+    {
+        "layer": "/63",
+        "channel": 191,
+        "score": -0.0007570788147859275
+    },
+    {
+        "layer": "/63",
+        "channel": 192,
+        "score": 0.0038981481920927763
+    },
+    {
+        "layer": "/63",
+        "channel": 193,
+        "score": 0.0007746699848212302
+    },
+    {
+        "layer": "/63",
+        "channel": 194,
+        "score": 0.005900908727198839
+    },
+    {
+        "layer": "/63",
+        "channel": 195,
+        "score": -0.004213890992105007
+    },
+    {
+        "layer": "/63",
+        "channel": 196,
+        "score": -0.004454867448657751
+    },
+    {
+        "layer": "/63",
+        "channel": 197,
+        "score": 0.005294752307236195
+    },
+    {
+        "layer": "/63",
+        "channel": 198,
+        "score": 0.0029499242082238197
+    },
+    {
+        "layer": "/63",
+        "channel": 199,
+        "score": 0.00032148751779459417
+    },
+    {
+        "layer": "/63",
+        "channel": 200,
+        "score": 0.007287396118044853
+    },
+    {
+        "layer": "/63",
+        "channel": 201,
+        "score": -0.001291020424105227
+    },
+    {
+        "layer": "/63",
+        "channel": 202,
+        "score": 0.0038287509232759476
+    },
+    {
+        "layer": "/63",
+        "channel": 203,
+        "score": -0.0008208868093788624
+    },
+    {
+        "layer": "/63",
+        "channel": 204,
+        "score": -0.0023188265040516853
+    },
+    {
+        "layer": "/63",
+        "channel": 205,
+        "score": 0.0026688100770115852
+    },
+    {
+        "layer": "/63",
+        "channel": 206,
+        "score": 0.009086973033845425
+    },
+    {
+        "layer": "/63",
+        "channel": 207,
+        "score": 0.008399001322686672
+    },
+    {
+        "layer": "/63",
+        "channel": 208,
+        "score": 0.016641885042190552
+    },
+    {
+        "layer": "/63",
+        "channel": 209,
+        "score": 0.004227810073643923
+    },
+    {
+        "layer": "/63",
+        "channel": 210,
+        "score": -0.0019512972794473171
+    },
+    {
+        "layer": "/63",
+        "channel": 211,
+        "score": 0.022889411076903343
+    },
+    {
+        "layer": "/63",
+        "channel": 212,
+        "score": 0.017844563350081444
+    },
+    {
+        "layer": "/63",
+        "channel": 213,
+        "score": 0.004281910136342049
+    },
+    {
+        "layer": "/63",
+        "channel": 214,
+        "score": 0.0057544889859855175
+    },
+    {
+        "layer": "/63",
+        "channel": 215,
+        "score": -0.02703472599387169
+    },
+    {
+        "layer": "/63",
+        "channel": 216,
+        "score": 0.012031780555844307
+    },
+    {
+        "layer": "/63",
+        "channel": 217,
+        "score": 0.0038732653483748436
+    },
+    {
+        "layer": "/63",
+        "channel": 218,
+        "score": 0.00013025355292484164
+    },
+    {
+        "layer": "/63",
+        "channel": 219,
+        "score": 0.0007292047375813127
+    },
+    {
+        "layer": "/63",
+        "channel": 220,
+        "score": 0.013697268441319466
+    },
+    {
+        "layer": "/63",
+        "channel": 221,
+        "score": 0.004162052646279335
+    },
+    {
+        "layer": "/63",
+        "channel": 222,
+        "score": 0.00519901467487216
+    },
+    {
+        "layer": "/63",
+        "channel": 223,
+        "score": 0.014308539219200611
+    },
+    {
+        "layer": "/63",
+        "channel": 224,
+        "score": 0.011822259984910488
+    },
+    {
+        "layer": "/63",
+        "channel": 225,
+        "score": -0.015372811816632748
+    },
+    {
+        "layer": "/63",
+        "channel": 226,
+        "score": -0.022257553413510323
+    },
+    {
+        "layer": "/63",
+        "channel": 227,
+        "score": 0.004879237152636051
+    },
+    {
+        "layer": "/63",
+        "channel": 228,
+        "score": -0.04044882208108902
+    },
+    {
+        "layer": "/63",
+        "channel": 229,
+        "score": 0.005209298338741064
+    },
+    {
+        "layer": "/63",
+        "channel": 230,
+        "score": 0.005701021291315556
+    },
+    {
+        "layer": "/63",
+        "channel": 231,
+        "score": 0.01401579100638628
+    },
+    {
+        "layer": "/63",
+        "channel": 232,
+        "score": 0.007079643197357655
+    },
+    {
+        "layer": "/63",
+        "channel": 233,
+        "score": 0.006888269912451506
+    },
+    {
+        "layer": "/63",
+        "channel": 234,
+        "score": 0.007469587493687868
+    },
+    {
+        "layer": "/63",
+        "channel": 235,
+        "score": -0.0008007474825717509
+    },
+    {
+        "layer": "/63",
+        "channel": 236,
+        "score": -0.0026741516776382923
+    },
+    {
+        "layer": "/63",
+        "channel": 237,
+        "score": 0.025568261742591858
+    },
+    {
+        "layer": "/63",
+        "channel": 238,
+        "score": -0.023037735372781754
+    },
+    {
+        "layer": "/63",
+        "channel": 239,
+        "score": -0.003950219601392746
+    },
+    {
+        "layer": "/63",
+        "channel": 240,
+        "score": 0.0024566748179495335
+    },
+    {
+        "layer": "/63",
+        "channel": 241,
+        "score": 0.014406217262148857
+    },
+    {
+        "layer": "/63",
+        "channel": 242,
+        "score": -0.007508031092584133
+    },
+    {
+        "layer": "/63",
+        "channel": 243,
+        "score": 0.005777901969850063
+    },
+    {
+        "layer": "/63",
+        "channel": 244,
+        "score": -0.0008010452729649842
+    },
+    {
+        "layer": "/63",
+        "channel": 245,
+        "score": 0.0037722373381257057
+    },
+    {
+        "layer": "/63",
+        "channel": 246,
+        "score": 0.005450807046145201
+    },
+    {
+        "layer": "/63",
+        "channel": 247,
+        "score": -0.007498122286051512
+    },
+    {
+        "layer": "/63",
+        "channel": 248,
+        "score": -0.0035122025292366743
+    },
+    {
+        "layer": "/63",
+        "channel": 249,
+        "score": 0.0011488370364531875
+    },
+    {
+        "layer": "/63",
+        "channel": 250,
+        "score": 0.00021267867123242468
+    },
+    {
+        "layer": "/63",
+        "channel": 251,
+        "score": 0.012224136851727962
+    },
+    {
+        "layer": "/63",
+        "channel": 252,
+        "score": 0.01952112652361393
+    },
+    {
+        "layer": "/63",
+        "channel": 253,
+        "score": -0.006044123321771622
+    },
+    {
+        "layer": "/63",
+        "channel": 254,
+        "score": 0.001708954805508256
+    },
+    {
+        "layer": "/63",
+        "channel": 255,
+        "score": 0.005876644980162382
+    },
+    {
+        "layer": "/63",
+        "channel": 256,
+        "score": 0.006682203151285648
+    },
+    {
+        "layer": "/63",
+        "channel": 257,
+        "score": 0.005620985757559538
+    },
+    {
+        "layer": "/63",
+        "channel": 258,
+        "score": -0.006961578968912363
+    },
+    {
+        "layer": "/63",
+        "channel": 259,
+        "score": 0.0
+    },
+    {
+        "layer": "/63",
+        "channel": 260,
+        "score": 0.001927084638737142
+    },
+    {
+        "layer": "/63",
+        "channel": 261,
+        "score": -0.004590569995343685
+    },
+    {
+        "layer": "/63",
+        "channel": 262,
+        "score": -0.037490952759981155
+    },
+    {
+        "layer": "/63",
+        "channel": 263,
+        "score": -0.06240183860063553
+    },
+    {
+        "layer": "/63",
+        "channel": 264,
+        "score": 0.005652666557580233
+    },
+    {
+        "layer": "/63",
+        "channel": 265,
+        "score": 0.010024991817772388
+    },
+    {
+        "layer": "/63",
+        "channel": 266,
+        "score": -0.0005806225817650557
+    },
+    {
+        "layer": "/63",
+        "channel": 267,
+        "score": -0.04334299638867378
+    },
+    {
+        "layer": "/63",
+        "channel": 268,
+        "score": 0.0032524694688618183
+    },
+    {
+        "layer": "/63",
+        "channel": 269,
+        "score": -0.01244086492806673
+    },
+    {
+        "layer": "/63",
+        "channel": 270,
+        "score": 0.0015418173279613256
+    },
+    {
+        "layer": "/63",
+        "channel": 271,
+        "score": 0.011243732646107674
+    },
+    {
+        "layer": "/63",
+        "channel": 272,
+        "score": -0.0037419588770717382
+    },
+    {
+        "layer": "/63",
+        "channel": 273,
+        "score": -0.059768255800008774
+    },
+    {
+        "layer": "/63",
+        "channel": 274,
+        "score": -0.00900932215154171
+    },
+    {
+        "layer": "/63",
+        "channel": 275,
+        "score": -0.0016096436884254217
+    },
+    {
+        "layer": "/63",
+        "channel": 276,
+        "score": -0.0053248777985572815
+    },
+    {
+        "layer": "/63",
+        "channel": 277,
+        "score": 0.03436848521232605
+    },
+    {
+        "layer": "/63",
+        "channel": 278,
+        "score": -0.0003376345557626337
+    },
+    {
+        "layer": "/63",
+        "channel": 279,
+        "score": -0.001132698031142354
+    },
+    {
+        "layer": "/63",
+        "channel": 280,
+        "score": 0.0022241410333663225
+    },
+    {
+        "layer": "/63",
+        "channel": 281,
+        "score": 0.012974766083061695
+    },
+    {
+        "layer": "/63",
+        "channel": 282,
+        "score": 0.0011806428665295243
+    },
+    {
+        "layer": "/63",
+        "channel": 283,
+        "score": 0.0031584014650434256
+    },
+    {
+        "layer": "/63",
+        "channel": 284,
+        "score": -0.0004556278290692717
+    },
+    {
+        "layer": "/63",
+        "channel": 285,
+        "score": -0.00980386883020401
+    },
+    {
+        "layer": "/63",
+        "channel": 286,
+        "score": -0.010879907757043839
+    },
+    {
+        "layer": "/63",
+        "channel": 287,
+        "score": 0.0012809134786948562
+    },
+    {
+        "layer": "/63",
+        "channel": 288,
+        "score": -0.0012614659499377012
+    },
+    {
+        "layer": "/63",
+        "channel": 289,
+        "score": 0.0013447330566123128
+    },
+    {
+        "layer": "/63",
+        "channel": 290,
+        "score": 0.01172933541238308
+    },
+    {
+        "layer": "/63",
+        "channel": 291,
+        "score": 0.010418912395834923
+    },
+    {
+        "layer": "/63",
+        "channel": 292,
+        "score": -0.020228970795869827
+    },
+    {
+        "layer": "/63",
+        "channel": 293,
+        "score": 0.00261811725795269
+    },
+    {
+        "layer": "/63",
+        "channel": 294,
+        "score": -0.004786647856235504
+    },
+    {
+        "layer": "/63",
+        "channel": 295,
+        "score": 0.0004500389622990042
+    },
+    {
+        "layer": "/63",
+        "channel": 296,
+        "score": 0.010059602558612823
+    },
+    {
+        "layer": "/63",
+        "channel": 297,
+        "score": -0.04986245930194855
+    },
+    {
+        "layer": "/63",
+        "channel": 298,
+        "score": 0.008334752172231674
+    },
+    {
+        "layer": "/63",
+        "channel": 299,
+        "score": 0.011250528506934643
+    },
+    {
+        "layer": "/63",
+        "channel": 300,
+        "score": 0.0028886122163385153
+    },
+    {
+        "layer": "/63",
+        "channel": 301,
+        "score": -0.0040655299089848995
+    },
+    {
+        "layer": "/63",
+        "channel": 302,
+        "score": -0.009369452483952045
+    },
+    {
+        "layer": "/63",
+        "channel": 303,
+        "score": -0.002814822131767869
+    },
+    {
+        "layer": "/63",
+        "channel": 304,
+        "score": -0.021697834134101868
+    },
+    {
+        "layer": "/63",
+        "channel": 305,
+        "score": 0.008592483587563038
+    },
+    {
+        "layer": "/63",
+        "channel": 306,
+        "score": -0.0012119330931454897
+    },
+    {
+        "layer": "/63",
+        "channel": 307,
+        "score": -0.00012815911031793803
+    },
+    {
+        "layer": "/63",
+        "channel": 308,
+        "score": -0.016315076500177383
+    },
+    {
+        "layer": "/63",
+        "channel": 309,
+        "score": -0.05807865038514137
+    },
+    {
+        "layer": "/63",
+        "channel": 310,
+        "score": -0.0120639493688941
+    },
+    {
+        "layer": "/63",
+        "channel": 311,
+        "score": -0.013533500023186207
+    },
+    {
+        "layer": "/63",
+        "channel": 312,
+        "score": -0.011848080903291702
+    },
+    {
+        "layer": "/63",
+        "channel": 313,
+        "score": 0.010919962078332901
+    },
+    {
+        "layer": "/63",
+        "channel": 314,
+        "score": 0.019976302981376648
+    },
+    {
+        "layer": "/63",
+        "channel": 315,
+        "score": 0.000234455888858065
+    },
+    {
+        "layer": "/63",
+        "channel": 316,
+        "score": 0.014948569238185883
+    },
+    {
+        "layer": "/63",
+        "channel": 317,
+        "score": 0.015711206942796707
+    },
+    {
+        "layer": "/63",
+        "channel": 318,
+        "score": 0.0005048639723099768
+    },
+    {
+        "layer": "/63",
+        "channel": 319,
+        "score": 0.0022051117848604918
+    },
+    {
+        "layer": "/63",
+        "channel": 320,
+        "score": 0.020922867581248283
+    },
+    {
+        "layer": "/63",
+        "channel": 321,
+        "score": 0.013480697758495808
+    },
+    {
+        "layer": "/63",
+        "channel": 322,
+        "score": -0.012362593784928322
+    },
+    {
+        "layer": "/63",
+        "channel": 323,
+        "score": 0.005263983737677336
+    },
+    {
+        "layer": "/63",
+        "channel": 324,
+        "score": 0.025150636211037636
+    },
+    {
+        "layer": "/63",
+        "channel": 325,
+        "score": 0.00217378418892622
+    },
+    {
+        "layer": "/63",
+        "channel": 326,
+        "score": 0.003914176486432552
+    },
+    {
+        "layer": "/63",
+        "channel": 327,
+        "score": 0.009014357812702656
+    },
+    {
+        "layer": "/63",
+        "channel": 328,
+        "score": -0.006064455956220627
+    },
+    {
+        "layer": "/63",
+        "channel": 329,
+        "score": -0.024484017863869667
+    },
+    {
+        "layer": "/63",
+        "channel": 330,
+        "score": 0.0031205301638692617
+    },
+    {
+        "layer": "/63",
+        "channel": 331,
+        "score": 0.006033124402165413
+    },
+    {
+        "layer": "/63",
+        "channel": 332,
+        "score": -0.0037775225937366486
+    },
+    {
+        "layer": "/63",
+        "channel": 333,
+        "score": 0.002304019406437874
+    },
+    {
+        "layer": "/63",
+        "channel": 334,
+        "score": 0.008795988745987415
+    },
+    {
+        "layer": "/63",
+        "channel": 335,
+        "score": 0.004271284211426973
+    },
+    {
+        "layer": "/63",
+        "channel": 336,
+        "score": 0.013586442917585373
+    },
+    {
+        "layer": "/63",
+        "channel": 337,
+        "score": -0.017343629151582718
+    },
+    {
+        "layer": "/63",
+        "channel": 338,
+        "score": -0.0062929498963057995
+    },
+    {
+        "layer": "/63",
+        "channel": 339,
+        "score": 0.012965559028089046
+    },
+    {
+        "layer": "/63",
+        "channel": 340,
+        "score": -0.010581586509943008
+    },
+    {
+        "layer": "/63",
+        "channel": 341,
+        "score": 0.008367281407117844
+    },
+    {
+        "layer": "/63",
+        "channel": 342,
+        "score": -0.002814636332914233
+    },
+    {
+        "layer": "/63",
+        "channel": 343,
+        "score": 0.006334214936941862
+    },
+    {
+        "layer": "/63",
+        "channel": 344,
+        "score": 0.002530390163883567
+    },
+    {
+        "layer": "/63",
+        "channel": 345,
+        "score": -0.005294496659189463
+    },
+    {
+        "layer": "/63",
+        "channel": 346,
+        "score": 0.017844626680016518
+    },
+    {
+        "layer": "/63",
+        "channel": 347,
+        "score": 0.0011333030415698886
+    },
+    {
+        "layer": "/63",
+        "channel": 348,
+        "score": -0.0023760409094393253
+    },
+    {
+        "layer": "/63",
+        "channel": 349,
+        "score": -0.014628883451223373
+    },
+    {
+        "layer": "/63",
+        "channel": 350,
+        "score": 0.005599404219537973
+    },
+    {
+        "layer": "/63",
+        "channel": 351,
+        "score": 0.01032395102083683
+    },
+    {
+        "layer": "/63",
+        "channel": 352,
+        "score": -0.029959063977003098
+    },
+    {
+        "layer": "/63",
+        "channel": 353,
+        "score": -0.0053428905084729195
+    },
+    {
+        "layer": "/63",
+        "channel": 354,
+        "score": 0.0009985475335270166
+    },
+    {
+        "layer": "/63",
+        "channel": 355,
+        "score": -4.2304636735934764e-05
+    },
+    {
+        "layer": "/63",
+        "channel": 356,
+        "score": -0.020832009613513947
+    },
+    {
+        "layer": "/63",
+        "channel": 357,
+        "score": 0.002110688481479883
+    },
+    {
+        "layer": "/63",
+        "channel": 358,
+        "score": -0.021036973223090172
+    },
+    {
+        "layer": "/63",
+        "channel": 359,
+        "score": 0.013740096241235733
+    },
+    {
+        "layer": "/63",
+        "channel": 360,
+        "score": 0.0020069207530468702
+    },
+    {
+        "layer": "/63",
+        "channel": 361,
+        "score": -0.0021630041301250458
+    },
+    {
+        "layer": "/63",
+        "channel": 362,
+        "score": 0.0003633040760178119
+    },
+    {
+        "layer": "/63",
+        "channel": 363,
+        "score": -0.05811915546655655
+    },
+    {
+        "layer": "/63",
+        "channel": 364,
+        "score": 0.02391723357141018
+    },
+    {
+        "layer": "/63",
+        "channel": 365,
+        "score": -0.00328731257468462
+    },
+    {
+        "layer": "/63",
+        "channel": 366,
+        "score": 0.0073590753600001335
+    },
+    {
+        "layer": "/63",
+        "channel": 367,
+        "score": 0.010417568497359753
+    },
+    {
+        "layer": "/63",
+        "channel": 368,
+        "score": -0.005698670167475939
+    },
+    {
+        "layer": "/63",
+        "channel": 369,
+        "score": 0.00038143081474117935
+    },
+    {
+        "layer": "/63",
+        "channel": 370,
+        "score": 0.0013063665246590972
+    },
+    {
+        "layer": "/63",
+        "channel": 371,
+        "score": 0.007155664265155792
+    },
+    {
+        "layer": "/63",
+        "channel": 372,
+        "score": -0.005004053004086018
+    },
+    {
+        "layer": "/63",
+        "channel": 373,
+        "score": 0.013785005547106266
+    },
+    {
+        "layer": "/63",
+        "channel": 374,
+        "score": 0.003820521757006645
+    },
+    {
+        "layer": "/63",
+        "channel": 375,
+        "score": -0.003256374504417181
+    },
+    {
+        "layer": "/63",
+        "channel": 376,
+        "score": 0.02017994597554207
+    },
+    {
+        "layer": "/63",
+        "channel": 377,
+        "score": 0.015470397658646107
+    },
+    {
+        "layer": "/63",
+        "channel": 378,
+        "score": -0.007474862039089203
+    },
+    {
+        "layer": "/63",
+        "channel": 379,
+        "score": 0.007613936439156532
+    },
+    {
+        "layer": "/63",
+        "channel": 380,
+        "score": 0.009837205521762371
+    },
+    {
+        "layer": "/63",
+        "channel": 381,
+        "score": 0.028862828388810158
+    },
+    {
+        "layer": "/63",
+        "channel": 382,
+        "score": -0.019308796152472496
+    },
+    {
+        "layer": "/63",
+        "channel": 383,
+        "score": -0.07822395116090775
+    },
+    {
+        "layer": "/63",
+        "channel": 384,
+        "score": -0.0004699267155956477
+    },
+    {
+        "layer": "/63",
+        "channel": 385,
+        "score": 0.0014945752918720245
+    },
+    {
+        "layer": "/63",
+        "channel": 386,
+        "score": 0.0360434427857399
+    },
+    {
+        "layer": "/63",
+        "channel": 387,
+        "score": -0.033653032034635544
+    },
+    {
+        "layer": "/63",
+        "channel": 388,
+        "score": -0.0032296539284288883
+    },
+    {
+        "layer": "/63",
+        "channel": 389,
+        "score": 0.004561989102512598
+    },
+    {
+        "layer": "/63",
+        "channel": 390,
+        "score": 0.006592620629817247
+    },
+    {
+        "layer": "/63",
+        "channel": 391,
+        "score": -0.0013938238844275475
+    },
+    {
+        "layer": "/63",
+        "channel": 392,
+        "score": 0.0064226179383695126
+    },
+    {
+        "layer": "/63",
+        "channel": 393,
+        "score": 0.02126961573958397
+    },
+    {
+        "layer": "/63",
+        "channel": 394,
+        "score": -0.018772047013044357
+    },
+    {
+        "layer": "/63",
+        "channel": 395,
+        "score": -0.03742940351366997
+    },
+    {
+        "layer": "/63",
+        "channel": 396,
+        "score": -0.014610848389565945
+    },
+    {
+        "layer": "/63",
+        "channel": 397,
+        "score": -0.05728534609079361
+    },
+    {
+        "layer": "/63",
+        "channel": 398,
+        "score": 0.009715914726257324
+    },
+    {
+        "layer": "/63",
+        "channel": 399,
+        "score": -0.011547593399882317
+    },
+    {
+        "layer": "/63",
+        "channel": 400,
+        "score": 0.015117285773158073
+    },
+    {
+        "layer": "/63",
+        "channel": 401,
+        "score": 0.01869940385222435
+    },
+    {
+        "layer": "/63",
+        "channel": 402,
+        "score": 0.006757421884685755
+    },
+    {
+        "layer": "/63",
+        "channel": 403,
+        "score": 0.0024171459954231977
+    },
+    {
+        "layer": "/63",
+        "channel": 404,
+        "score": -0.0010939519852399826
+    },
+    {
+        "layer": "/63",
+        "channel": 405,
+        "score": 0.007240104489028454
+    },
+    {
+        "layer": "/63",
+        "channel": 406,
+        "score": -0.03029029443860054
+    },
+    {
+        "layer": "/63",
+        "channel": 407,
+        "score": -0.002010608557611704
+    },
+    {
+        "layer": "/63",
+        "channel": 408,
+        "score": -0.025609351694583893
+    },
+    {
+        "layer": "/63",
+        "channel": 409,
+        "score": -0.0042864358983933926
+    },
+    {
+        "layer": "/63",
+        "channel": 410,
+        "score": 0.0002360891958232969
+    },
+    {
+        "layer": "/63",
+        "channel": 411,
+        "score": 0.012762462720274925
+    },
+    {
+        "layer": "/63",
+        "channel": 412,
+        "score": -0.046718258410692215
+    },
+    {
+        "layer": "/63",
+        "channel": 413,
+        "score": 0.011884772218763828
+    },
+    {
+        "layer": "/63",
+        "channel": 414,
+        "score": 0.003956350963562727
+    },
+    {
+        "layer": "/63",
+        "channel": 415,
+        "score": -0.010492800734937191
+    },
+    {
+        "layer": "/63",
+        "channel": 416,
+        "score": 0.001324429060332477
+    },
+    {
+        "layer": "/63",
+        "channel": 417,
+        "score": 0.004890041425824165
+    },
+    {
+        "layer": "/63",
+        "channel": 418,
+        "score": 0.008672928437590599
+    },
+    {
+        "layer": "/63",
+        "channel": 419,
+        "score": -0.012081947177648544
+    },
+    {
+        "layer": "/63",
+        "channel": 420,
+        "score": 0.0028584040701389313
+    },
+    {
+        "layer": "/63",
+        "channel": 421,
+        "score": -0.016969040036201477
+    },
+    {
+        "layer": "/63",
+        "channel": 422,
+        "score": 0.013110253028571606
+    },
+    {
+        "layer": "/63",
+        "channel": 423,
+        "score": -0.0034411181695759296
+    },
+    {
+        "layer": "/63",
+        "channel": 424,
+        "score": 0.0003576494927983731
+    },
+    {
+        "layer": "/63",
+        "channel": 425,
+        "score": 0.0005886249709874392
+    },
+    {
+        "layer": "/63",
+        "channel": 426,
+        "score": 0.007933614775538445
+    },
+    {
+        "layer": "/63",
+        "channel": 427,
+        "score": -0.024486638605594635
+    },
+    {
+        "layer": "/63",
+        "channel": 428,
+        "score": -0.024308260530233383
+    },
+    {
+        "layer": "/63",
+        "channel": 429,
+        "score": 0.006807723548263311
+    },
+    {
+        "layer": "/63",
+        "channel": 430,
+        "score": 0.0012231954606249928
+    },
+    {
+        "layer": "/63",
+        "channel": 431,
+        "score": 0.008468113839626312
+    },
+    {
+        "layer": "/63",
+        "channel": 432,
+        "score": -0.010546528734266758
+    },
+    {
+        "layer": "/63",
+        "channel": 433,
+        "score": 0.026848627254366875
+    },
+    {
+        "layer": "/63",
+        "channel": 434,
+        "score": 0.002770987804979086
+    },
+    {
+        "layer": "/63",
+        "channel": 435,
+        "score": 0.026270823553204536
+    },
+    {
+        "layer": "/63",
+        "channel": 436,
+        "score": -0.003020478878170252
+    },
+    {
+        "layer": "/63",
+        "channel": 437,
+        "score": -0.0057696630246937275
+    },
+    {
+        "layer": "/63",
+        "channel": 438,
+        "score": -0.0027695046737790108
+    },
+    {
+        "layer": "/63",
+        "channel": 439,
+        "score": -0.08108795434236526
+    },
+    {
+        "layer": "/63",
+        "channel": 440,
+        "score": -0.0021821861155331135
+    },
+    {
+        "layer": "/63",
+        "channel": 441,
+        "score": -0.0004802921903319657
+    },
+    {
+        "layer": "/63",
+        "channel": 442,
+        "score": 0.0017471110913902521
+    },
+    {
+        "layer": "/63",
+        "channel": 443,
+        "score": 0.005057964939624071
+    },
+    {
+        "layer": "/63",
+        "channel": 444,
+        "score": 0.014764038845896721
+    },
+    {
+        "layer": "/63",
+        "channel": 445,
+        "score": -0.008570155128836632
+    },
+    {
+        "layer": "/63",
+        "channel": 446,
+        "score": 0.0010478680487722158
+    },
+    {
+        "layer": "/63",
+        "channel": 447,
+        "score": -0.022792132571339607
+    },
+    {
+        "layer": "/63",
+        "channel": 448,
+        "score": 0.0020665947813540697
+    },
+    {
+        "layer": "/63",
+        "channel": 449,
+        "score": 0.005479908082634211
+    },
+    {
+        "layer": "/63",
+        "channel": 450,
+        "score": 0.015419576317071915
+    },
+    {
+        "layer": "/63",
+        "channel": 451,
+        "score": 0.014207856729626656
+    },
+    {
+        "layer": "/63",
+        "channel": 452,
+        "score": 0.004706828389316797
+    },
+    {
+        "layer": "/63",
+        "channel": 453,
+        "score": -0.005081423558294773
+    },
+    {
+        "layer": "/63",
+        "channel": 454,
+        "score": 0.0234938096255064
+    },
+    {
+        "layer": "/63",
+        "channel": 455,
+        "score": 0.0026004104875028133
+    },
+    {
+        "layer": "/63",
+        "channel": 456,
+        "score": 0.02362487092614174
+    },
+    {
+        "layer": "/63",
+        "channel": 457,
+        "score": 0.00127960997633636
+    },
+    {
+        "layer": "/63",
+        "channel": 458,
+        "score": 0.0018404527800157666
+    },
+    {
+        "layer": "/63",
+        "channel": 459,
+        "score": -0.026061084121465683
+    },
+    {
+        "layer": "/63",
+        "channel": 460,
+        "score": -0.014275898225605488
+    },
+    {
+        "layer": "/63",
+        "channel": 461,
+        "score": 0.002114339265972376
+    },
+    {
+        "layer": "/63",
+        "channel": 462,
+        "score": -0.00010287654731655493
+    },
+    {
+        "layer": "/63",
+        "channel": 463,
+        "score": 0.010320314206182957
+    },
+    {
+        "layer": "/63",
+        "channel": 464,
+        "score": 0.0019496178720146418
+    },
+    {
+        "layer": "/63",
+        "channel": 465,
+        "score": -0.015362109988927841
+    },
+    {
+        "layer": "/63",
+        "channel": 466,
+        "score": -0.001834183232858777
+    },
+    {
+        "layer": "/63",
+        "channel": 467,
+        "score": 0.002763116266578436
+    },
+    {
+        "layer": "/63",
+        "channel": 468,
+        "score": 0.0016520362114533782
+    },
+    {
+        "layer": "/63",
+        "channel": 469,
+        "score": 0.0026134923100471497
+    },
+    {
+        "layer": "/63",
+        "channel": 470,
+        "score": 0.009192200377583504
+    },
+    {
+        "layer": "/63",
+        "channel": 471,
+        "score": -0.016307082027196884
+    },
+    {
+        "layer": "/63",
+        "channel": 472,
+        "score": -0.025049488991498947
+    },
+    {
+        "layer": "/63",
+        "channel": 473,
+        "score": -0.004534302279353142
+    },
+    {
+        "layer": "/63",
+        "channel": 474,
+        "score": -0.010670904070138931
+    },
+    {
+        "layer": "/63",
+        "channel": 475,
+        "score": -0.002258016262203455
+    },
+    {
+        "layer": "/63",
+        "channel": 476,
+        "score": 0.0016981299268081784
+    },
+    {
+        "layer": "/63",
+        "channel": 477,
+        "score": 0.008547726087272167
+    },
+    {
+        "layer": "/63",
+        "channel": 478,
+        "score": 0.0029103460256010294
+    },
+    {
+        "layer": "/63",
+        "channel": 479,
+        "score": 6.367585592670366e-05
+    },
+    {
+        "layer": "/63",
+        "channel": 480,
+        "score": 0.00677993381395936
+    },
+    {
+        "layer": "/63",
+        "channel": 481,
+        "score": 0.005971299950033426
+    },
+    {
+        "layer": "/63",
+        "channel": 482,
+        "score": 0.01633964106440544
+    },
+    {
+        "layer": "/63",
+        "channel": 483,
+        "score": -0.007769787684082985
+    },
+    {
+        "layer": "/63",
+        "channel": 484,
+        "score": 0.017308810725808144
+    },
+    {
+        "layer": "/63",
+        "channel": 485,
+        "score": 0.004662253428250551
+    },
+    {
+        "layer": "/63",
+        "channel": 486,
+        "score": 0.004238741006702185
+    },
+    {
+        "layer": "/63",
+        "channel": 487,
+        "score": 0.03837217390537262
+    },
+    {
+        "layer": "/63",
+        "channel": 488,
+        "score": -0.01909264363348484
+    },
+    {
+        "layer": "/63",
+        "channel": 489,
+        "score": -0.03724471479654312
+    },
+    {
+        "layer": "/63",
+        "channel": 490,
+        "score": 0.0001670064521022141
+    },
+    {
+        "layer": "/63",
+        "channel": 491,
+        "score": 0.005624003242701292
+    },
+    {
+        "layer": "/63",
+        "channel": 492,
+        "score": -0.005764158442616463
+    },
+    {
+        "layer": "/63",
+        "channel": 493,
+        "score": -0.020043030381202698
+    },
+    {
+        "layer": "/63",
+        "channel": 494,
+        "score": 0.0051935832016170025
+    },
+    {
+        "layer": "/63",
+        "channel": 495,
+        "score": -0.00590879749506712
+    },
+    {
+        "layer": "/63",
+        "channel": 496,
+        "score": 0.0009449952049180865
+    },
+    {
+        "layer": "/63",
+        "channel": 497,
+        "score": -0.00138575816527009
+    },
+    {
+        "layer": "/63",
+        "channel": 498,
+        "score": 0.008478335104882717
+    },
+    {
+        "layer": "/63",
+        "channel": 499,
+        "score": -0.003676431253552437
+    },
+    {
+        "layer": "/63",
+        "channel": 500,
+        "score": 0.006486670114099979
+    },
+    {
+        "layer": "/63",
+        "channel": 501,
+        "score": 0.018374718725681305
+    },
+    {
+        "layer": "/63",
+        "channel": 502,
+        "score": 0.0007329064537771046
+    },
+    {
+        "layer": "/63",
+        "channel": 503,
+        "score": 0.004231782164424658
+    },
+    {
+        "layer": "/63",
+        "channel": 504,
+        "score": 0.0
+    },
+    {
+        "layer": "/63",
+        "channel": 505,
+        "score": 0.016496075317263603
+    },
+    {
+        "layer": "/63",
+        "channel": 506,
+        "score": 0.0013977928319945931
+    },
+    {
+        "layer": "/63",
+        "channel": 507,
+        "score": 0.006862723734229803
+    },
+    {
+        "layer": "/63",
+        "channel": 508,
+        "score": -0.008428133092820644
+    },
+    {
+        "layer": "/63",
+        "channel": 509,
+        "score": 0.009953111410140991
+    },
+    {
+        "layer": "/63",
+        "channel": 510,
+        "score": -0.0019418561132624745
+    },
+    {
+        "layer": "/63",
+        "channel": 511,
+        "score": 0.004025508649647236
+    }
+]
