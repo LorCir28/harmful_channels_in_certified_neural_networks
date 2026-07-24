@@ -1,6 +1,15 @@
 # Harmful Channels in Certified Neural Networks
 
-This repository contains the codebase and experimental workflows for analyzing the existence of harmful channels whose zero-ablation increases the standard and certified accuracy in convolutional certified neural networks.
+This repository is for the purpose of paper review submission and contains the codebase and experimental workflows for analyzing the existence of harmful channels in convolutional certified neural networks.
+
+This project uses the CTRAIN library for certification training and evaluation: https://github.com/ADA-research/CTRAIN
+
+---
+
+# Note on Usage
+
+Permission is granted exclusively to reviewers and editors of this paper submission for the purpose of review. All rights reserved.
+
 
 ---
 
